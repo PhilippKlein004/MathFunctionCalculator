@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 /**
  * @author Philipp Klein
  * @version 1.0
- * @since 10.26.2023
+ * @since 10.26.2022
  */
 
 public class functionCalculatorGUI extends JFrame {
